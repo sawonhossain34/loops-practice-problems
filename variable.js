@@ -40,3 +40,18 @@
 // var numbers = [1, 3, 4, 5, 6, 7, 9, 15, 58]
 // var number = numbers.indexOf(15);
 // console.log(number);
+
+// last element push
+//  var numbers = [1, 3, 4, 5, 6, 7, 9, 15, 58];
+//  numbers.push('bangladesh');
+//  console.log(numbers);
+
+// last element pop
+// var numbers = [1, 3, 4, 5, 6, 7, 9, 15, 58];
+// numbers.pop();
+// console.log(numbers);
+
+// first element add 
+var numbers = [1, 3, 4, 5, 6, 7, 9, 15, 58]
+numbers.shift();
+console.log(numbers);
